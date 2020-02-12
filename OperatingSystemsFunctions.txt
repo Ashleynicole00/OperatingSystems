@@ -5,3 +5,5 @@ These tools are displayed and titled differently in each operating system but al
 
 Another key function that you will find on your operating system is a means to access the internet. 
 This is usually done by syncing up to a wireless network.Most operating systems have this function located in settings as well as a convenient more accessable way on the  toolbar.
+
+Which brings me into another basic functions of operating systems is authentication. Which requires a user to log in with a username and password to access the devices interface. I beleive all operating systems have this function but not all may require it where some do automatically. 
