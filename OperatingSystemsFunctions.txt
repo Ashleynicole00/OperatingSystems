@@ -1,3 +1,7 @@
 Most if not all operating systems provide tools for managing the device.
 A few examples of these tools are file managers, image viewers, search features and so on.
 These tools are displayed and titled differently in each operating system but all of them perform the same tasks. 
+
+
+Another key function that you will find on your operating system is a means to access the internet. 
+This is usually done by syncing up to a wireless network.Most operating systems have this function located in settings as well as a convenient more accessable way on the  toolbar.
