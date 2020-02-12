@@ -1,0 +1,3 @@
+Most if not all operating systems provide tools for managing the device.
+A few examples of these tools are file managers, image viewers, search features and so on.
+These tools are displayed and titled differently in each operating system but all of them perform the same tasks. 
